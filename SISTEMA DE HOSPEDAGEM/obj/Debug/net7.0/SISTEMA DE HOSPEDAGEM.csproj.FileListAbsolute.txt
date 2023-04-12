@@ -1,0 +1,15 @@
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\bin\Debug\net7.0\SISTEMA DE HOSPEDAGEM.exe
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\bin\Debug\net7.0\SISTEMA DE HOSPEDAGEM.deps.json
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\bin\Debug\net7.0\SISTEMA DE HOSPEDAGEM.runtimeconfig.json
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\bin\Debug\net7.0\SISTEMA DE HOSPEDAGEM.dll
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\bin\Debug\net7.0\SISTEMA DE HOSPEDAGEM.pdb
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.AssemblyInfo.cs
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.dll
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\refint\SISTEMA DE HOSPEDAGEM.dll
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.pdb
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\SISTEMA DE HOSPEDAGEM.genruntimeconfig.cache
+C:\Users\leona\Documents\PROGRAMAÇÃO\DIO\CRM\C#\SISTEMA DE HOSPEDAGEM\obj\Debug\net7.0\ref\SISTEMA DE HOSPEDAGEM.dll
